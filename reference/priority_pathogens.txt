@@ -1,0 +1,19 @@
+Acinetobacter baumannii
+Bacteriodes
+Candida
+Citrobacter
+Enterobacter
+Enterococcus
+Escherichia coli
+Haemophilus influenzae
+Klebsiella
+Lactobacillus
+Morganella
+Prevotella
+Proteus
+Pseudomonas aeruginosa
+Serratia
+Staphylococcus aureus
+Staphylococcus argenteus
+Stenotrophomonas
+Streptococcus
